@@ -3,7 +3,7 @@ https://aswinkumarnalluri.github.io/portfolio/
 # Data Scientist
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-PROFESSIONAL SUMMARY 
+PROFESSIONAL SUMMARY:  
 Data Science professional with a master’s degree and 2+ years of industry experience, Specialized in leveraging machine learning algorithms for Advanced fraud detection, recommendation systems, prompt engineering, and cloud management. Proficient in building end-to-end machine learning pipelines, performing statistical analysis, creating data visualizations, and extracting insights from diverse data sources. Proficient in Python, SQL, experienced in deploying AWS services and optimizing database services to enhance data-driven decision-making. Demonstrated ability to lead cross-functional teams and drive innovation in data science projects.
 
 
@@ -21,10 +21,11 @@ Data Science professional with a master’s degree and 2+ years of industry expe
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### A Smart Hybrid Enhanced Recommendation and Personalization Algorithm using Machine Learning
+[Publication](https://scholarworks.lib.csusb.edu/etd/1866/)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Our Smart Hybrid Enhanced Recommendation and Personalization Algorithm (SHERPA) represents a groundbreaking leap forward in machine learning. Unlike traditional recommender systems, SHERPA intelligently blends both Content-based filtering with Term Frequency Inverse Document Frequency (TF-IDF)  and Collaborative filtering  with Alternating Squares (ALS) with Weighted Regularization along with other state-of-the-art machine learning techniques. Trained on a massive dataset of over 50 million ratings from 480,000 unique users across 17,770 movie titles on the CSUSB Supercomputer, SHERPA has demonstrated a remarkable 70% improvement in prediction accuracy compared to traditional hybrid models, as measured by Root Mean Square Error (RMSE).
+
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 

@@ -1,22 +1,22 @@
+https://aswinkumarnalluri.github.io/portfolio/
+
 # Data Scientist
+Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-####PROFESSIONAL SUMMARY
+#### PROFESSIONAL SUMMARY 
 Data Science professional with a master’s degree and 2+ years of industry experience, Specialized in leveraging machine learning algorithms for Advanced fraud detection, recommendation systems, prompt engineering, and cloud management. Proficient in building end-to-end machine learning pipelines, performing statistical analysis, creating data visualizations, and extracting insights from diverse data sources. Proficient in Python, SQL, experienced in deploying AWS services and optimizing database services to enhance data-driven decision-making. Demonstrated ability to lead cross-functional teams and drive innovation in data science projects.
 
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education								       		
+- M.S., Physics	| California State University at San Bernardino, California (_May 2024_)	 			        		
+- B.S., Physics | KL University at Vijayawada, India (_May 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Scientist @ Cognizant (_August 2021 - July 2022_)
+- As a Track Lead, possessing deep domain knowledge my main responsibilities include identifying new patterns and tactics evolving over time in fraud activities, preventing the model from shifting to a high anomaly ratio, and maintaining a low anomaly ratio through continuous monitoring and updates to maintain model's effectiveness.
+- Executed and maintained end-to-end development of production-level Stage 1 unsupervised learning models, including autoencoder neural networks and Isolation Forest, to flag 80 to 90% of fraudulent transactions.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 

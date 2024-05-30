@@ -1,5 +1,3 @@
-https://aswinkumarnalluri.github.io/portfolio/
-
 # Data Scientist
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
@@ -16,34 +14,22 @@ Data Science professional with a master’s degree and 2+ years of industry expe
 - As a Track Lead, possessing deep domain knowledge my main responsibilities include identifying new patterns and tactics evolving over time in fraud activities, preventing the model from shifting to a high anomaly ratio, and maintaining a low anomaly ratio through continuous monitoring and updates to maintain model's effectiveness.
 - Executed and maintained end-to-end development of production-level Stage 1 unsupervised learning models, including autoencoder neural networks and Isolation Forest, to flag 80 to 90% of fraudulent transactions.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Science Intern @ Cognizant India (_March 2021 - July 2021)
+- Worked on documentation and assisted in developing and integrating APIs for fraud detection algorithms as well as deployment and monitoring activities alongside senior data scientists.
+- Conducted exploratory data analysis (EDA) on time series data to uncover trends, patterns, and anomalies, providing actionable insights for the fraud detection team and created data visualizations using Power BI or Tableau. 
+- Implemented advanced feature engineering (transaction frequency, rolling statistics, seasonal patterns) and performed data aggregation/segmentation (hourly, daily, weekly) to enhance fraud detection model accuracy and highlight high-risk patterns.
 
 ## Projects
 ### A Smart Hybrid Enhanced Recommendation and Personalization Algorithm using Machine Learning
-[Publication](https://scholarworks.lib.csusb.edu/etd/1866/)
+
+Publication Link: [Publication](https://scholarworks.lib.csusb.edu/etd/1866/)
 
 Our Smart Hybrid Enhanced Recommendation and Personalization Algorithm (SHERPA) represents a groundbreaking leap forward in machine learning. Unlike traditional recommender systems, SHERPA intelligently blends both Content-based filtering with Term Frequency Inverse Document Frequency (TF-IDF)  and Collaborative filtering  with Alternating Squares (ALS) with Weighted Regularization along with other state-of-the-art machine learning techniques. Trained on a massive dataset of over 50 million ratings from 480,000 unique users across 17,770 movie titles on the CSUSB Supercomputer, SHERPA has demonstrated a remarkable 70% improvement in prediction accuracy compared to traditional hybrid models, as measured by Root Mean Square Error (RMSE).
 
+### Assessment of GNSS Raw Measurements Based on GNSS Logger at Low Latitudes Stations
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Many positioning and navigation systems cannot provide accurate results in remote areas due to high ionospheric error. To overcome this, we have used GNSS raw measurements for accurate positioning. We collect GNSS raw measurement data from the International Global Navigation Satellite Systems (IGS) and the GNSS Logger App using an Android mobile in RINEX format. We calculate pseudo ranges between the user receiver and the satellite, and by using L1or L2 frequency, position, velocity, and time. Deriving ASCII files from RINEX records using GPS-TEC, Seemala 2004 software generates graphs, and finally by using MATLAB code to forecast position correction.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- [CSUSB Scholarworks](https://scholarworks.lib.csusb.edu/etd/1866/)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Linked In](https://www.linkedin.com/in/aswinkumarnalluri/)

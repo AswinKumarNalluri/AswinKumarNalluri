@@ -8,8 +8,8 @@ Data Science professional with a master’s degree and 2+ years of industry expe
 
 
 ## Education								       		
-- M.S., Physics	| California State University at San Bernardino, California (_May 2024_)	 			        		
-- B.S., Physics | KL University at Vijayawada, India (_May 2021_)
+- M.S., Computer Science	| California State University at San Bernardino, California (_May 2024_)	 			        		
+- B.S., Computer Science | KL University at Vijayawada, India (_May 2021_)
 
 ## Work Experience
 **Data Scientist @ Cognizant (_August 2021 - July 2022_)

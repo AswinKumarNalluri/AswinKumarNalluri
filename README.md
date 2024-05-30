@@ -10,11 +10,11 @@ Data Science professional with a master’s degree and 2+ years of industry expe
 - B.S., Computer Science | KL University at Vijayawada, India (_May 2021_)
 
 ## Work Experience
-**Data Scientist @ Cognizant (_August 2021 - July 2022_)
+**Data Scientist @ Cognizant (August 2021 - July 2022_)
 - As a Track Lead, possessing deep domain knowledge my main responsibilities include identifying new patterns and tactics evolving over time in fraud activities, preventing the model from shifting to a high anomaly ratio, and maintaining a low anomaly ratio through continuous monitoring and updates to maintain model's effectiveness.
 - Executed and maintained end-to-end development of production-level Stage 1 unsupervised learning models, including autoencoder neural networks and Isolation Forest, to flag 80 to 90% of fraudulent transactions.
 
-**Data Science Intern @ Cognizant India (_March 2021 - July 2021)
+**Data Science Intern @ Cognizant India (March 2021 - July 2021)
 - Worked on documentation and assisted in developing and integrating APIs for fraud detection algorithms as well as deployment and monitoring activities alongside senior data scientists.
 - Conducted exploratory data analysis (EDA) on time series data to uncover trends, patterns, and anomalies, providing actionable insights for the fraud detection team and created data visualizations using Power BI or Tableau. 
 - Implemented advanced feature engineering (transaction frequency, rolling statistics, seasonal patterns) and performed data aggregation/segmentation (hourly, daily, weekly) to enhance fraud detection model accuracy and highlight high-risk patterns.

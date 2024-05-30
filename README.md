@@ -2,6 +2,10 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
+####PROFESSIONAL SUMMARY
+Data Science professional with a master’s degree and 2+ years of industry experience, Specialized in leveraging machine learning algorithms for Advanced fraud detection, recommendation systems, prompt engineering, and cloud management. Proficient in building end-to-end machine learning pipelines, performing statistical analysis, creating data visualizations, and extracting insights from diverse data sources. Proficient in Python, SQL, experienced in deploying AWS services and optimizing database services to enhance data-driven decision-making. Demonstrated ability to lead cross-functional teams and drive innovation in data science projects.
+
+
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
